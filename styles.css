@@ -1,6 +1,6 @@
 h2 {
-    color: teal;
-    background-color: plum;
+    color: #5FCFFC;
+    background-color: rgb(89,151,0);
     
 }
 
@@ -11,4 +11,9 @@ button {
 
 p {
     color: olive;
+}
+
+body {
+    /* can shorten hex if each letter/num a pair, like black can be #000 */
+    background-color: #C5E; 
 }
